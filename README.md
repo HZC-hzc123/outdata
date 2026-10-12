@@ -1,2 +1,5 @@
 # outdata
-for downloading model weight
+https://www.modelscope.cn/models/Eco-Tech/DeepSeek-V4-Flash-0731-w8a8/files
+https://www.modelscope.cn/models/Eco-Tech/GLM-5.2-w8a8c8/files
+https://www.modelscope.cn/models/Eco-Tech/MiniMax-M2.7-w8a8-QuaRot
+https://www.modelscope.cn/models/Eco-Tech/Kimi-K2.6-w4a8
